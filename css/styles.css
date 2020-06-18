@@ -100,7 +100,11 @@ table {
 .p1 {
   text-align: left;
 }
-.p2{margin-bottom: 50px;}
+
+.p2 {
+  margin-bottom: 50px;
+}
+
 .btn {
   background: #006bb3;
   background-image: -webkit-linear-gradient(top, #006bb3, #2980b9);
@@ -127,4 +131,7 @@ table {
   background-image: linear-gradient(to bottom, #88ccf7, #2baaff);
   text-decoration: none;
 }
- span{text-family: serif;}
+
+span {
+  text-family: serif;
+}
