@@ -62,11 +62,6 @@ p {
   height: 150px;
 }
 
-#top-cloud {
-  position: absolute;
-  right: 400px;
-}
-
 #left-cloud {
   position: absolute;
   left: 230px;
